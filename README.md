@@ -26,10 +26,8 @@ The **Blink_it_Analysis** project involves end-to-end data analysis, starting fr
 9. **Charts Development and Formatting**
 
 10. **Dashboard/Report Development**
-    - Build the dashboard or report integrating all charts and features.
 
 11. **Insights Generation**
-    - Derive and present actionable insights from the dashboard.
 
 ---
 
